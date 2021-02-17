@@ -50,6 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-bin/
 
-main.c
+# Test files
+test/
